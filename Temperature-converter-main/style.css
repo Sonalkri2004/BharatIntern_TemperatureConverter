@@ -1,0 +1,66 @@
+.container {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url("/Temperature-converter-main/background2.jpeg");
+    height: 1250px; 
+    text-align: center;
+    border-radius: 15px;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 100px;
+    text-align: center;
+}
+
+h1:hover{
+color: rgb(0, 8, 246);
+}
+h2:hover{
+    color: rgb(252, 252, 253);
+    }
+    
+
+
+h2 {
+    margin-top: 0;
+    font-size: 50px;
+    text-align: center;
+}
+form {
+    margin-top: 10px;
+    font-size: 25px;
+    box-sizing: 25px;
+    text-align: center;
+}
+
+label,
+input {
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+p{
+    font-size: 30px;
+}
+
+
+#button{
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#reset{
+    font-size: 30px
+}
+
+#reset:hover{
+    background-color: rgb(72, 237, 246);
+    }
+
+#button:hover{
+background-color: rgb(72, 237, 246);
+}
+
